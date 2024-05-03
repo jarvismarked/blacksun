@@ -35,7 +35,7 @@ function Header() {
             <a class="menu-left-block" href="">
               <img
                 class="menu-logo"
-                src="./assets/images/Blacksun.svg"
+                src="./assets/images/Logo.svg"
                 alt="logo"
               />
               <img
