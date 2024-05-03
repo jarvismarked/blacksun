@@ -40,7 +40,7 @@ function Header() {
               />
               <img
                 class="menu-logo display-none"
-                src="assets/images/Logo.png"
+                src="assets/images/Logo.svg"
                 alt="logo"
               />
             </a>
