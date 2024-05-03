@@ -35,12 +35,12 @@ function Header() {
             <a class="menu-left-block" href="">
               <img
                 class="menu-logo"
-                src="./assets/images/Logo.svg"
+                src="./assets/images/BlackSun.svg"
                 alt="logo"
               />
               <img
                 class="menu-logo display-none"
-                src="assets/images/Logo.svg"
+                src="assets/images/BlackSun.svg"
                 alt="logo"
               />
             </a>
