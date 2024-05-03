@@ -33,7 +33,11 @@ function Header() {
         <div class="header-menu style-one bg-white">
           <div class="container flex-between h-80">
             <a class="menu-left-block" href="">
-              <img class="menu-logo" src="assets/images/Blacksun.svg" alt="logo" />
+              <img
+                class="menu-logo"
+                src="./assets/images/Blacksun.svg"
+                alt="logo"
+              />
               <img
                 class="menu-logo display-none"
                 src="assets/images/Logo.png"
